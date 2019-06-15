@@ -5,7 +5,7 @@ The **Magic Mirror Caricatures (MMC)** is a collection of portrait photos and ex
 
 **Examples of MMC**: (a) and (c) are the portrait photos. (b) and (d) are the corresponding exaggerated portrait caricatures.
 
-![dataset](https://github.com/TCvivi/Magic-Mirror-Caricatures-Dataset-and-DeepExaggeration-system/blob/master/dataset.png)
+<div align=center><img src="https://github.com/TCvivi/Magic-Mirror-Caricatures-Dataset-and-DeepExaggeration-system/blob/master/dataset.png" width="300" height="300" alt="dataset"/>
 
 For each image, we use a points sequence including **68** labeled facial landmarks to present the geometric sturcture features. 
 
