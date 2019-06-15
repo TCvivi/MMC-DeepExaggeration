@@ -7,7 +7,7 @@ The **Magic Mirror Caricatures (MMC)** is a collection of portrait photos and ex
 
 <div align=center><img src="https://github.com/TCvivi/Magic-Mirror-Caricatures-Dataset-and-DeepExaggeration-system/blob/master/dataset.png" width="485" height="416" alt="dataset"/>
 
-<div align=center><img src="https://github.com/TCvivi/Magic-Mirror-Caricatures-Dataset-and-DeepExaggeration-system/blob/master/sample.png" width="300" height="320" alt="sample"/>
+<<div align=center><img src="https://github.com/TCvivi/Magic-Mirror-Caricatures-Dataset-and-DeepExaggeration-system/blob/master/sample.png" width="300" height="320" alt="sample"/>>
   
 ## Introduction of Code
 
