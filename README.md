@@ -15,11 +15,6 @@ The DeepExaggeration is divided into training and testing stages. The training s
 ### Citation
 If you use this work please cite
 
-···java
-sssss
-···
-
-
 ···
     @article{TANG2019363,
     
