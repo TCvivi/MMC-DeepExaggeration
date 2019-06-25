@@ -14,15 +14,29 @@ The DeepExaggeration is divided into training and testing stages. The training s
 
 ### Citation
 If you use this work please cite
-···bib
+
+···java
+sssss
+···
+
+
+···
     @article{TANG2019363,
+    
     title = "Exaggerated portrait caricatures synthesis",
+    
     journal = "Information Sciences",
+    
     volume = "502",
+    
     pages = "363 - 375",
+    
     year = "2019",
+    
     issn = "0020-0255",
+    
     doi = "https://doi.org/10.1016/j.ins.2019.06.055",
+    
     }
 ···
 
